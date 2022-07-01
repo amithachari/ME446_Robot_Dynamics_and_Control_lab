@@ -18,6 +18,9 @@ http://coecsl.ece.illinois.edu/me446/
 ### PID + Feed Forward Control
 ![image](https://user-images.githubusercontent.com/64373075/176832584-7afdf22a-c91c-4376-8a9f-35734d985900.png)
 
+### Inverse Dynamics Control for joint 2 and 3
+![image](https://user-images.githubusercontent.com/64373075/176833469-38b047f9-586c-469b-8341-49d46df37315.png)
+
 ### Response of System for butterfly trajectory
 
 ![image](https://user-images.githubusercontent.com/64373075/176832670-9e9718e3-85ec-4431-aa30-daf303fe3d77.png)
