@@ -4,6 +4,10 @@ Implementation of different kinds of controllers on a Catalyst 5 robot arm. The 
 # Final Video Link
 https://youtube.com/shorts/jAs9Y0I4wnY?feature=share
 
+## Task
+
+![image](https://user-images.githubusercontent.com/64373075/176833737-76ba7dc2-9154-41e0-b45d-5fcd0e6483cc.png)
+
 # Lab Website
 http://coecsl.ece.illinois.edu/me446/
 
